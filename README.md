@@ -12,7 +12,7 @@ cf: https://github.com/primefaces/primevue/issues/4511
 1. Install `yarn` / `npm install`
 2. Build `yarn build` or `npm run build`
 3. Boom Crash
-4. You can take a look at `./src/Test.vue` it's modern valid vue syntax
+4. You can take a look at [./src/Test.vue](./src/Test.vue) it's modern valid vue syntax
 
 This Repository is based on vitejs [vue-ts template](https://vitejs.dev/guide/#trying-vite-online)
 
