@@ -1,0 +1,24 @@
+{
+    "name": "primevue-create-vue-issue-template",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "vue": "^3.3.4"
+    },
+    "devDependencies": {
+      "@vitejs/plugin-vue": "4.3.4",
+      "primeicons": "^6.0.1",
+      "primevue": "3.35.0",
+      "typescript": "5.2.2",
+      "vite": "4.4.9"
+    },
+    "keywords": [],
+    "description": ""
+  }
+  
