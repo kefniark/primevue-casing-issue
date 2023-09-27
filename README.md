@@ -4,6 +4,8 @@
 
 Reproduce the issue with Primevue `aria-label` and `aria-labelledby`.
 
+cf: https://github.com/primefaces/primevue/issues/4511
+
 ### Reproduce
 
 0. Clone this repo
