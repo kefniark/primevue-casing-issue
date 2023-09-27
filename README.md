@@ -14,7 +14,7 @@ Reproduce the issue with Primevue `aria-label` and `aria-labelledby`.
 
 The problem seem to be a mix of two things:
 * Bad Primevue typing
-* Recent Vue `type-based declaration` and not `runtime declaration
+* Recent Vue `type-based declaration` and not `runtime declaration`
 ```ts
 defineProps<Generic>() // type-based declaration
 defineProps({}) // runtime declaration
